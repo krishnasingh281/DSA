@@ -1,7 +1,7 @@
 public class binarySearch {
 
     static int BinarySearch(int[] arr, int target, int start, int end) {
-        if (end < start) {
+            if (end < start) {
             return -1;
         }
 
