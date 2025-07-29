@@ -1,3 +1,5 @@
+package binarySearch;
+
 public class Leetcode_744 {
     static char nextGreatestLetter(char[] arr, char target) {
         int start = 0;

@@ -1,3 +1,5 @@
+package binarySearch;
+
 public class ceiling {
     static int Ceiling(int[] arr, int target) {
         if (target > arr[arr.length - 1]) {

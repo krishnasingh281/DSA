@@ -1,3 +1,5 @@
+package binarySearch;
+
 public class floor {
     static int Floor(int[] arr, int target) {
         if (target < arr[arr.length - 1]) {
